@@ -246,6 +246,17 @@ const ambassadors: Ambassador[] = [
     title: "Nextflow Ambassador",
   },
   {
+    name: "Dhvnit Mehta",
+    img: "dhvnit-m.jpg",
+    country: "in",
+    github: "aoi-nekosuke",
+    linkedin: "dhvnitmehta",
+    twitter: "",
+    title: "Nextflow Ambassador",
+    children:
+      'Dhvnit is an MSc student in Industrial Biotechology. He has interests in genomics, automation and optimization of tools and pipelines in bioinformatics.', 
+  },
+  {
     name: "Erik Fasterius",
     img: "erik-fasterius.jpg",
     country: "se",

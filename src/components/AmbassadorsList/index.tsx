@@ -257,7 +257,7 @@ const ambassadors: Ambassador[] = [
   },
   {
     name: "Delfina Terradas",
-    img: "delfina-terradas.jpeg",
+    img: "delfina-terradas.jpg",
     country: "ar",
     github: "delfiterradas",
     linkedin: "delfina-maría-terradas-1b516b2a8",
